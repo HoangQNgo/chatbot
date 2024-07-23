@@ -1,4 +1,3 @@
-# using builtin functions only, no llms api
 import random
 import re
 import json

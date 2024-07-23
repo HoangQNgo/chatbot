@@ -1,0 +1,27 @@
+# SecureRoadmanAI Chatbot
+Using built-in python libraries only.
+
+## Yo, What's This?
+SecureRoadmanAI is your chat buddy, ready to vibe with you in a proper roadman style! This chatbot learns from your chats and drops knowledge on all sorts of topics, keeping it real and relatable. Whether you wanna talk about animals, science, or just have a laugh, RoadmanAI's got you covered.
+
+## Features
+- **Learns New Info**: Teach the bot new things, and it'll remember for next time, fam!
+- **Casual Banter**: Expect responses in a chill roadman dialect, making every convo fun.
+- **Categories Knowledge**: Knows what's tech, what's science, and what's just general chat.
+- **Fallback Responses**: If it gets confused, it'll ask you to break it down, innit?
+
+## How to Use It
+
+### Getting Started
+1. **Run the Bot**: Just fire up the script, and you're good to go!
+   ```bash
+   python chatbotmvp.py
+   ```
+2. **Chat Away**: Type your messages, and let the bot respond. It's like having a mate who's always learning!
+
+### Teach the Bot
+- Wanna share some knowledge? Just say stuff like:
+  - "Cats are animals."
+  - "The sun is a star."
+- If it doesn't know something, it'll ask you for the answer, and then it'll remember it for next time!
+
